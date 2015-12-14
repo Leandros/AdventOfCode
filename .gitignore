@@ -1,0 +1,19 @@
+# Ignore everything
+*
+
+# Exclude .gitignore
+!.gitignore
+
+# Exclude readme
+!README.md
+!LICENSE
+
+# Exclude source files
+!*.c
+!*.cpp
+
+# Exclude input files
+!*.in
+
+# exclude makefiles
+!Makefile
